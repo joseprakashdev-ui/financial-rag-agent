@@ -1,0 +1,26 @@
+COMMERCIAL CREDIT UNDERWRITING AND RISK MANAGEMENT POLICY
+Document Ref: POL-CR-2026-v4.1 | Classification: Internal BFSI Regulatory Standard
+
+Section 1: Executive Scope & Governance
+This policy establishes mandatory underwriting benchmarks, debt covenant thresholds, and collateral
+governance protocols for all commercial lending, syndicated credit facilities, and asset-backed real estate exposures.
+
+Section 2: Maximum Loan-to-Value (LTV) Limits
+2.1 Stabilized Commercial Real Estate (CRE): The standard maximum allowable LTV is 75.0%.
+2.2 Construction & Value-Add Properties: Maximum allowable LTV shall not exceed 65.0% of appraised as-completed value.
+2.3 Raw Land Acquisition: Maximum allowable LTV is capped at 50.0% with zero subordinate liens permitted.
+2.4 Exception Protocol: Any facility exceeding 75.0% LTV requires unanimous Tier-2 Credit Risk Committee approval
+    and additional liquid collateral equivalent to 120% of the loan excess amount.
+
+Section 3: Debt Service Coverage Ratio (DSCR) Covenants
+3.1 Base Threshold: Borrowers must maintain a minimum DSCR of 1.25x across all trailing twelve months (TTM) calculations.
+3.2 High-Volatility Sectors: Hospitality, retail, and special-use commercial assets require a minimum DSCR of 1.40x.
+3.3 Covenant Cure Period: If DSCR drops below 1.15x for two consecutive quarters, the borrower has 30 business days
+    to deposit cash reserves sufficient to restore the 1.25x threshold or face immediate technical default covenants.
+
+Section 4: Collateral Valuation & Verification Guidelines
+4.1 Independent Appraisal: All real property securing loans >$1,000,000 must undergo independent appraisal certified by
+    a MAI (Member Appraisal Institute) appraiser within 90 days prior to credit committee sanctioning.
+4.2 Environmental Site Assessments (ESA): Phase I ESA is mandatory on all commercial parcels. Any identified
+    Recognized Environmental Conditions (RECs) require Phase II testing and minimum 150% cleanup escrow reserves.
+4.3 UCC Title Filings: First-priority perfected liens must be recorded on all operational fixtures and equipment.
